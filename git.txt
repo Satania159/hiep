@@ -1,1 +1,9 @@
-1235359u5982739573159
+
+$ git init //tao repository
+$ git add git.txt // add file to repo in local
+$ git commit -m ".." 
+$ git status
+$ git log
+$ git push -u origin master
+$ git pull
+
